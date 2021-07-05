@@ -1,0 +1,8 @@
+[core]
+    remote = susalps-grassland-traits
+[cache]
+    dir = /glacier2/dvc-cache
+['remote "susalps-grassland-traits"']
+    url = s3://susalps-grassland-traits
+    endpointurl = https://s3.imk-ifu.kit.edu:8082
+    profile = ifu-s3
